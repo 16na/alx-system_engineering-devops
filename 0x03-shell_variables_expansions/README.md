@@ -1,0 +1,1 @@
+My init variables expansions
